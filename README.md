@@ -188,3 +188,7 @@ Die Anmeldung bei GitHub eröffnet dir Möglichkeiten zur Zusammenarbeit und zum
 -   Weiterführende Ressourcen:
     -   [Pro Git Buch](https://git-scm.com/book/en/v2)
     -   Atlassian Git Tutorials
+-   Videos
+    - Git in 2 minutes with Mosh https://www.youtube.com/watch?v=2ReR1YJrNOM
+    - Git in 10 Minutes https://www.youtube.com/watch?v=nCI4DxAF3Ak
+    - Git happens https://www.youtube.com/watch?v=yCh6TSLIQBQ    
