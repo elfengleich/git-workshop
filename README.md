@@ -1,6 +1,7 @@
 # Workshop: Einführung in Git für Azubis
 
 Di 21. bis Do 23. Mai 2024
+mit Clemens, Jacob, Jonas, Tim
 
  
 ## Teil 1: Was ist Git?
