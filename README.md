@@ -1,7 +1,7 @@
 # Workshop: Einführung in Git für Azubis
 
 Di 21. bis Do 23. Mai 2024
-mit Clemens, Jacob, Jonas, Tim
+mit Clemens, Jacob, Jonas, Tim und Konstantin
 
  
 ## Teil 1: Was ist Git?
@@ -181,7 +181,7 @@ Die Anmeldung bei GitHub eröffnet dir Möglichkeiten zur Zusammenarbeit und zum
     -   [Git Cheatsheet von GitHub](https://education.github.com/git-cheat-sheet-education.pdf)
 -   Interaktive Git-Tutorials:
     -   [Git Immersion](https://gitimmersion.com/)
-    -   Learn Git Branching
+    -   Learn Git Branching: https://learngitbranching.js.org/?locale=de_DE
 -   Übungsaufgaben und Projekte:
     -   [GitHub Learning Lab](https://lab.github.com/)
     -   Git Exercises
