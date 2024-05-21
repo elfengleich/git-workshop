@@ -2,11 +2,7 @@
 
 Di 21. bis Do 23. Mai 2024
 
-
-[toc]
-
  
-
 ## Teil 1: Was ist Git?
 
 ### 1.1 Einführung in Versionskontrolle
